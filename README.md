@@ -1,4 +1,4 @@
-# Hello, I'm Hassan Daniel 👋  
+# Hello, I'm Daniel Hassan👋  
 
 Welcome to my little corner of the internet! and I'm a **Software & Web3 Developer** passionate about **decentralization, UI/UX, and building on the Internet Computer!**  
 
