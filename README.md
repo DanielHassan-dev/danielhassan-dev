@@ -7,7 +7,7 @@ Welcome to my little corner of the internet! and I'm a **Software & Web3 Develop
 - 🤝 Open to **collaborations** on tech & design projects  
 
 📩 **Let's connect!**  
-[Twitter](your-twitter-url) | [LinkedIn](https://www.linkedin.com/in/daniel-hassan-5a5055251/) | [Medium]([your-website-url](https://medium.com/@danny051))
+[Twitter](your-twitter-url) | [LinkedIn](https://www.linkedin.com/in/daniel-hassan-5a5055251/) | [Medium](https://medium.com/@danny051)
 
 
 
