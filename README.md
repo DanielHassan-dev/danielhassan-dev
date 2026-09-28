@@ -1,27 +1,14 @@
 # Hello, I'm Daniel Hassan👋  
 
-Welcome to my little corner of the internet! and I'm a **Software & Web3 Developer** passionate about **decentralization, UI/UX, and building on the Internet Computer!**  
+Welcome to my little corner of the internet!
+I'm a **Backend-focused developer (Python/Django)** based in Lagos.
 
-- 🚀 I’m currently working on **a social health platform**  
-- 🌐 Exploring **Motoko & Web3**  
-- 🤝 Open to **collaborations** on tech & design projects  
+- 🚀 Currently: rebuilding my projects with tests and clean version
+  control as part of a 13-week backend roadmap
+- 🧑🏾‍💻 Built: TaxIT (withholding tax calculator and dashboard, inspired
+  by my LIRS internship), Academic Insight (final year analytics project)
+- 🌐 Also explored **Motoko & Web3** on the Internet Computer  
+- 🤝 Looking for: backend internships 
 
 📩 **Let's connect!**  
-[Twitter](your-twitter-url) | [LinkedIn](https://www.linkedin.com/in/daniel-hassan-5a5055251/) | [Medium](https://medium.com/@danny051)
-
-
-
-<!--
-**DanielHassan-dev/danielhassan-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Twitter](https://www.x.com/danny____001) | [LinkedIn](https://www.linkedin.com/in/daniel-hassan-5a5055251/) | [Medium](https://medium.com/@danny051)
